@@ -1,0 +1,1 @@
+This directory contains the STOMP-W source code in separate files. The file allo.F contains the Fortran 90 module files and must be compiled prior to the other files.
